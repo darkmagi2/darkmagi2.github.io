@@ -1,0 +1,7 @@
+---
+title:  "Themes!"
+date:   2017-04-25 19:02:52
+categories: [jekyll]
+tags: [jekyll]
+---
+Working on themes now, satisfied with the current choice. Credit to Josh Gerdes for the [theme](https://github.com/joshgerdes/jekyll-uno)

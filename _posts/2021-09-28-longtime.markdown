@@ -1,0 +1,8 @@
+---
+title:  "Long time no see"
+date:   2021-09-28 21:28:47
+categories: [code]
+tags: [code]
+---
+
+I'm not much of a blogger, so it's no surprise there hasn't been anything here for years. But I did write a little program in Golang that picks things from a list for me. Originally I wrote it to decide what WoW character I should play, but then as I improved it's functionality it was clear I could use it for other dumb decisions. Why Golang? I don't really have a good reason. I thought it was nifty how easy it is to compile/test on the fly as well as compile for different environments. I definitely found myself regretting this decision when I was in the weeds though, as much of what I was doing would have likely been much easier in Python. You can check the code out [here](https://github.com/darkmagi2/randgo)

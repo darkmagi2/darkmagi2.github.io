@@ -2,8 +2,8 @@
 title: Shawn Carter 
 description: 'DevOps Engineer'
 #url: 'http://joshgerdes.com/jekyll-uno'
-url: 'http://xclio.com'
-baseurl: '/'
+url: 'https://darkmagi2.github.io'
+baseurl: 'https://darkmagi2.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 

@@ -1,0 +1,11 @@
+---
+title:  "Update"
+date:   2026-08-14 01:26:00
+categories: [code]
+tags: [code]
+---
+
+Beat my previous record (4 years between posts). With the explosion of "Vibe" coding, I've started some ambitious projects. Still just a hobbyist but I'm finding it quite fun. Here are some of my latest projects:
+
+Creo (https://creo.xclio.us) - A wishlist app. It utilizes AI to generate gift recommendations for people as well as handles secret santa drawing pools.
+Pulse (https://pulse.xclio.us) - A concert/event tracking app. This app allows you to coordinate event invites as well as track purchased tickets.

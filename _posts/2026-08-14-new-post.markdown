@@ -5,4 +5,7 @@ categories: [code]
 tags: [code]
 ---
 
-Wow, last post in 2021. Looks like I beat my previous record of 4 years between posts. With the explosion of "Vibe" coding, I've started some ambitious projects. Still just a hobbyist but I'm finding it quite fun. Here are some of my latest projects: [Creo](https://creo.xclio.us), a wishlist app that utilizes AI to generate gift recommendations for people as well as handles secret santa drawing pools; and [Pulse](https://pulse.xclio.us), a concert/event tracking app that lets you coordinate event invites as well as track purchased tickets.
+Wow, last post in 2021. Looks like I beat my previous record of 4 years between posts. With the explosion of "Vibe" coding, I've started some ambitious projects. Still just a hobbyist but I'm finding it quite fun. Here are some of my latest projects:
+
+- [Creo](https://creo.xclio.us) — A wishlist app. It utilizes AI to generate gift recommendations for people as well as handles secret santa drawing pools.
+- [Pulse](https://pulse.xclio.us) — A concert/event tracking app. This app allows you to coordinate event invites as well as track purchased tickets.

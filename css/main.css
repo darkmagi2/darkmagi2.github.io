@@ -60,6 +60,12 @@ pre.highlight code,
   margin: 0.35em 0;
 }
 
+.post-list__read-more {
+  display: inline-block;
+  margin: 0.5em 0 0;
+  font-size: 0.9em;
+}
+
 .user-image {
   margin-bottom: 1.2em;
   position: relative;
